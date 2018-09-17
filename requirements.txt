@@ -1,0 +1,13 @@
+# packages needed to run oauth_generator.py
+requests-oauthlib
+oauthlib
+oauth2
+cryptography
+tlslite
+
+
+# packages needed to run access_using_jira_package.py
+jira
+
+# packages needed to run access_using_jira_package.py
+requests
