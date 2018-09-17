@@ -1,3 +1,6 @@
+# REFERENCE: https://bitbucket.org/atlassian_tutorial/atlassian-oauth-examples/src/3f0d22c5b1d8749fae6f05aa3556ca8ac3724b5a/python/?at=default
+# Most of the code below is directly referenced from the above atlassian offical guide.
+
 import base64
 import os
 import urlparse
